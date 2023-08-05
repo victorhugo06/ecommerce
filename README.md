@@ -1,5 +1,12 @@
 # Projeto E-commerce
 
-Projeto desenvolvido do zero no [Curso de PHP 7](https://www.udemy.com/curso-completo-de-php-7/) disponível na plataforma da Udemy e no site do [HTML5dev.com.br](https://www.html5dev.com.br/curso/curso-completo-de-php-7).
+Projeto desenvolvido para p desafio da ARQMEDES
 
-Template usado no projeto [Almsaeed Studio](https://almsaeedstudio.com)
+##TECNOLOGIAS UTILIZADAS
+
+PHP 7.4
+HTML5
+CSS3
+JavaScript
+Composer
+Mysql 8.0.23
